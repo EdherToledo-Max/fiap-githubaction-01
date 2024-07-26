@@ -1,4 +1,4 @@
-name: MeuP rimeiro WorkFlow no GitHub Actions
+name: Meu Primeiro WorkFlow no GitHub Actions
 
 on:
   push:
